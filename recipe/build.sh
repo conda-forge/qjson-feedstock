@@ -3,7 +3,7 @@
 [[ -d build ]] || mkdir build
 cd build/
 
-cmake \
+cmake ${CMAKE_ARGS} \
     -D CMAKE_INSTALL_PREFIX=${PREFIX} \
     ${SRC_DIR}
 

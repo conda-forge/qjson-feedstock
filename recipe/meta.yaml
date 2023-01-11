@@ -12,7 +12,7 @@ source:
 
 build:
   skip: True  # [win and vc<14]
-  number: 1007
+  number: 1008
 
 requirements:
   build:
@@ -47,3 +47,5 @@ about:
 extra:
   recipe-maintainers:
     - ceholden
+    - gillins
+    - srnetochan
