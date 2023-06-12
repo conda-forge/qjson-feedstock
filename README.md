@@ -1,11 +1,11 @@
-About qjson
-===========
+About qjson-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/qjson-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/flavio/qjsonhttp://qjson.sourceforge.net/
 
 Package license: LGPL-2.1-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/qjson-feedstock/blob/main/LICENSE.txt)
 
 Summary: QJson is a qt-based library that maps JSON data to QVariant objects
 
